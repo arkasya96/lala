@@ -1,0 +1,117 @@
+
+li {
+color:rgb(93, 25, 182);
+font-family: 'Indie Flower', cursive;
+font-size: 16;
+
+}
+
+h1 {
+    text-align: center;
+}
+p{
+    color:rgb(247, 126, 126);
+    font-family: 'Indie Flower', cursive;
+    text-align: justify;
+
+}
+
+h2 {
+    text-align: center;
+    color:rgb(244,180,94);
+    font-family: 'Indie Flower', cursive;
+}
+section{
+    float:left;
+    margin: 0 1.5;
+    width:30%;
+    color:rgb(70, 18, 90);
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+body{
+    background-image: url("lala1.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
+  aside {
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(46, 18, 65);
+    font-family: 'Indie Flower', cursive;
+    float: right;
+    margin: 0 1.5%;
+    width: 50%;
+  }
+
+
+
+
+table {
+   background-color: rgb(94,244,180);
+    width: 50%;
+    border-radius:15px;
+    border: 1px solid rgb(94,244,180);
+    font-size: 14px;
+}
+
+th, td,tr {
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+    color:#ffffff;
+    font-family: 'Indie Flower', cursive;
+    border-radius:15px;
+    border: 1px solid rgb(94,244,180);
+    text-align: center;
+ 
+}
+th {
+    font-size: 17px;
+    color: #ffffff;
+    background-color: rgb(244,105,94)
+}
+
+td{
+    background-color: rgb(244,180,94);
+}
+td:hover {
+        background-color: #ffff99;
+      }
+
+th:hover {
+        color: #ffffff;
+        background-color: #f71414;
+      }
+
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+    
+    .lista {
+        float: left;
+    }
+    
+    .lista a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    
+    .lista a:hover {
+        background-color: #111;
+    }

@@ -1,0 +1,10 @@
+.flex-container{
+    width: auto;
+    height: auto;
+
+    margin: 0 auto;
+    background: #ff8d8d;
+    flex-flow: row wrap;
+    justify-content: space-around;
+
+}
